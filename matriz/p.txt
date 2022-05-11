@@ -1,0 +1,2 @@
+ | Quantidade de elementos PARES = 34 Representa 48%
+ | Quantidade de elementos IMPARES = 36 Representa 51%
